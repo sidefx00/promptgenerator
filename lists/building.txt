@@ -1,33 +1,33 @@
-Apartment_Building
-Office_Building
+Apartment Building
+Office Building
 Skyscraper
-Single_Family_Home
+Single Family Home
 Duplex
 Townhouse
 Condominium
 Warehouse
 Factory
-Power_Plant
-Shopping_Mall
+Power Plant
+Shopping Mall
 Supermarket
-Department_Store
-Retail_Store
+Department Store
+Retail Store
 Restaurant
 Cafe
 Bar
 Nightclub
 Hotel
 Motel
-Bed_and_Breakfast
+Bed and Breakfast
 Inn
 Resort
 Hostel
 Hospital
 Clinic
-Nursing_Home
-Medical_Office
-Dental_Office
-Veterinary_Clinic
+Nursing Home
+Medical Office
+Dental Office
+Veterinary Clinic
 Pharmacy
 Laboratory
 School
@@ -35,28 +35,28 @@ University
 College
 Library
 Museum
-Art_Gallery
+Art Gallery
 Theater
 Cinema
-Concert_Hall
+Concert Hall
 Stadium
 Arena
 Gymnasium
-Fitness_Center
-Swimming_Pool
-Ice_Rink
-Bowling_Alley
-Golf_Course
-Tennis_Court
-Skate_Park
+Fitness Center
+Swimming Pool
+Ice Rink
+Bowling Alley
+Golf Course
+Tennis Court
+Skate Park
 Zoo
 Aquarium
-Amusement_Park
-Water_Park
+Amusement Park
+Water Park
 Park
 Garden
 Greenhouse
-Botanical_Garden
+Botanical Garden
 Church
 Mosque
 Synagogue
@@ -65,52 +65,52 @@ Monastery
 Cathedral
 Chapel
 Cemetery
-Funeral_Home
-Fire_Station
-Police_Station
+Funeral Home
+Fire Station
+Police Station
 Courthouse
 Prison
 Jail
-Post_Office
+Post Office
 Embassy
 Consulate
-City_Hall
-Parliament_Building
+City Hall
+Parliament Building
 Palace
 Castle
 Fort
 Lighthouse
 Airport
-Train_Station
-Bus_Station
-Subway_Station
-Parking_Garage
-Gas_Station
-Car_Dealership
-Auto_Repair_Shop
+Train Station
+Bus Station
+Subway Station
+Parking Garage
+Gas Station
+Car Dealership
+Auto Repair Shop
 Bank
-Stock_Exchange
-Conference_Center
-Broadcasting_Studio
-TV_Station
-Radio_Station
-Newspaper_Office
-Internet_Cafe
-Public_Toilet
+Stock Exchange
+Conference Center
+Broadcasting Studio
+TV Station
+Radio Station
+Newspaper Office
+Internet Cafe
+Public Toilet
 Laundromat
-Hair_Salon
+Hair Salon
 Spa
-Daycare_Center
-Community_Center
-Social_Club
-Youth_Hostel
-Animal_Shelter
-Recycling_Center
-Waste_Treatment_Facility
+Daycare Center
+Community Center
+Social Club
+Youth Hostel
+Animal Shelter
+Recycling Center
+Waste Treatment Facility
 Observatory
 Planetarium
-Wind_Turbine
-Solar_Farm
+Wind Turbine
+Solar Farm
 Dam
 Barn
 Silo
@@ -125,146 +125,146 @@ Tent
 Tepee
 Igloo
 Treehouse
-Mobile_Home
+Mobile Home
 Dormitory
 Penthouse
 Boathouse
-Fishing_Hut
-Toll_Booth
-Customs_Booth
-Border_Crossing
-Signal_Box
+Fishing Hut
+Toll Booth
+Customs Booth
+Border Crossing
+Signal Box
 Substation
-Transformer_Station
-Pumping_Station
-Water_Tower
-Grain_Elevator
-Power_Line_Pylon
+Transformer Station
+Pumping Station
+Water Tower
+Grain Elevator
+Power Line Pylon
 Bridge
 Tunnel
 Viaduct
 Aqueduct
-Canal_Lock
+Canal Lock
 Harbor
 Marina
-Ferry_Terminal
-Cargo_Terminal
-Cruise_Ship_Terminal
-Lecture_Hall
+Ferry Terminal
+Cargo Terminal
+Cruise Ship Terminal
+Lecture Hall
 Auditorium
-Rehearsal_Space
-Recording_Studio
-Dance_Studio
-Art_Studio
-Photography_Studio
+Rehearsal Space
+Recording Studio
+Dance Studio
+Art Studio
+Photography Studio
 Garage
-Storage_Unit
-Cold_Storage
-Dry_Cleaner
+Storage Unit
+Cold Storage
+Dry Cleaner
 Tailor
 Cobbler
 Watchmaker
-Jewelry_Store
+Jewelry Store
 Bakery
 Butcher
 Fishmonger
 Florist
-Fruit_and_Veg_Store
+Fruit and Veg Store
 Bookstore
-Stationery_Store
-Toy_Store
-Pet_Store
-Electronics_Store
-Furniture_Store
-Hardware_Store
-Garden_Center
+Stationery Store
+Toy Store
+Pet Store
+Electronics Store
+Furniture Store
+Hardware Store
+Garden Center
 Nursery
-Veterinary_Hospital
-Animal_Breeding_Facility
-Race_Track
+Veterinary Hospital
+Animal Breeding Facility
+Race Track
 Stables
-Riding_Arena
-Equestrian_Center
-Archery_Range
-Firing_Range
-Climbing_Gym
+Riding Arena
+Equestrian Center
+Archery Range
+Firing Range
+Climbing Gym
 Dojo
-Martial_Arts_Studio
-Yoga_Studio
-Pilates_Studio
-Escape_Room
-Board_Game_Cafe
-Movie_Studio
-Film_Set
-Drive-in_Theater
-Outdoor_Stage
-Opera_House
-Ballet_School
-Music_School
-Art_School
-Cooking_School
-Language_School
-Driving_School
-Flight_School
-Sailing_School
+Martial Arts Studio
+Yoga Studio
+Pilates Studio
+Escape Room
+Board Game Cafe
+Movie Studio
+Film Set
+Drive-in Theater
+Outdoor Stage
+Opera House
+Ballet School
+Music School
+Art School
+Cooking School
+Language School
+Driving School
+Flight School
+Sailing School
 Winery
 Brewery
 Distillery
-Tasting_Room
-Food_Factory
-Textile_Mill
-Lumber_Mill
-Paper_Mill
-Steel_Mill
-Chemical_Plant
-Prefab_House
-Tiny_House
+Tasting Room
+Food Factory
+Textile Mill
+Lumber Mill
+Paper Mill
+Steel Mill
+Chemical Plant
+Prefab House
+Tiny House
 Mansion
 Villa
 Manor
 Chateau
-Terraced_House
+Terraced House
 Bungalow
 Cottage
 Ranch
 Houseboat
-Floating_Home
+Floating Home
 Caravan
 Camper
-Bus_Shelter
-Phone_Booth
+Bus Shelter
+Phone Booth
 Kiosk
-Market_Stall
-Street_Food_Cart
+Market Stall
+Street Food Cart
 Stable
-Dog_Kennel
-Chicken_Coop
+Dog Kennel
+Chicken Coop
 Apiary
 Hive
-Fish_Farm
-Oyster_Farm
-Coral_Farm
-Seaweed_Farm
-Dairy_Farm
-Pig_Farm
-Sheep_Farm
-Goat_Farm
-Alpaca_Farm
-Deer_Farm
-Crocodile_Farm
-Poultry_Farm
-Egg_Farm
+Fish Farm
+Oyster Farm
+Coral Farm
+Seaweed Farm
+Dairy Farm
+Pig Farm
+Sheep Farm
+Goat Farm
+Alpaca Farm
+Deer Farm
+Crocodile Farm
+Poultry Farm
+Egg Farm
 Feedlot
 Slaughterhouse
 Tannery
-Leather_Workshop
-Glassblowing_Studio
-Pottery_Workshop
-Sculpture_Studio
-Printmaking_Studio
-Engraving_Workshop
-Clock_Tower
-Bell_Tower
+Leather Workshop
+Glassblowing Studio
+Pottery Workshop
+Sculpture Studio
+Printmaking Studio
+Engraving Workshop
+Clock Tower
+Bell Tower
 Minaret
 Obelisk
 Monument
@@ -280,39 +280,39 @@ Boardwalk
 Pier
 Jetty
 Wharf
-Beach_Hut
-Deck_Chair
-Lifeguard_Tower
-Bathing_House
-Surf_Shop
-Dive_Center
+Beach Hut
+Deck Chair
+Lifeguard Tower
+Bathing House
+Surf Shop
+Dive Center
 Raft
-House_of_Cards
+House of Cards
 Dugout
 Burrow
-Underground_Home
+Underground Home
 Cave
 Bunker
 Shelter
-Bomb_Shelter
-Fallout_Shelter
+Bomb Shelter
+Fallout Shelter
 Trench
 Foxhole
-Ice_Hotel
-Snow_Fort
-Igloo_Hotel
-Eco_Lodge
-Geodesic_Dome
+Ice Hotel
+Snow Fort
+Igloo Hotel
+Eco Lodge
+Geodesic Dome
 Earthship
-Straw_Bale_House
-Rammed_Earth_House
-Cob_House
-Wattle_and_Daub_House
-Adobe_House
-Log_Cabin
-Pole_House
-Stilt_House
-Cliff_Dwelling
-Tree_Nest
-Rope_Bridge
+Straw Bale House
+Rammed Earth House
+Cob House
+Wattle and Daub House
+Adobe House
+Log Cabin
+Pole House
+Stilt House
+Cliff Dwelling
+Tree Nest
+Rope Bridge
 Drawbridge

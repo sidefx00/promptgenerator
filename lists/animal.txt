@@ -17,7 +17,7 @@ beetle
 binturong
 bird
 bison
-blue_jay
+blue jay
 boar
 bobcat
 bonobo
@@ -67,14 +67,14 @@ dormouse
 dragonfly
 duck
 dugong
-dung_beetle
+dung beetle
 eagle
 earthworm
 echidna
 eel
 eland
 elephant
-elephant_seal
+elephant seal
 elk
 emu
 falcon
@@ -85,7 +85,7 @@ fish
 flamingo
 flea
 fly
-flying_fish
+flying fish
 fossa
 fox
 frog
@@ -103,12 +103,12 @@ gorilla
 grasshopper
 grouse
 guanaco
-guinea_fowl
-guinea_pig
+guinea fowl
+guinea pig
 gull
 hamster
 hare
-harpy_eagle
+harpy eagle
 hawk
 hedgehog
 heron
@@ -129,7 +129,7 @@ kingfisher
 kinkajou
 koala
 koi
-komodo_dragon
+komodo dragon
 kookaburra
 kudu
 ladybug
@@ -150,7 +150,7 @@ mamba
 mammoth
 manatee
 mandrill
-manta_ray
+manta ray
 marlin
 marmoset
 marmot
@@ -197,13 +197,13 @@ pig
 pigeon
 pike
 platypus
-polar_bear
+polar bear
 polecat
 pony
 porcupine
 porpoise
 possum
-praying_mantis
+praying mantis
 pronghorn
 pufferfish
 puma
@@ -217,6 +217,6 @@ rat
 rattlesnake
 raven
 ray
-red_panda
+red panda
 reindeer
 rhinoc
