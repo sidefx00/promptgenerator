@@ -1,0 +1,329 @@
+New York City
+London
+Paris
+Tokyo
+Sydney
+Rio de Janeiro
+Beijing
+Moscow
+Cairo
+Great Wall of China
+Eiffel Tower
+Statue of Liberty
+Pyramids of Giza
+Grand Canyon
+Niagara Falls
+Mount Everest
+Taj Mahal
+Los Angeles
+San Francisco
+Chicago
+Toronto
+Vancouver
+Hong Kong
+Shanghai
+Dubai
+Singapore
+Berlin
+Amsterdam
+Rome
+Barcelona
+Istanbul
+Athens
+Jerusalem
+Bangkok
+Buenos Aires
+Lima
+Mexico City
+Las Vegas
+Miami
+Seattle
+New Delhi
+Mumbai
+Bengaluru
+Colosseum
+Machu Picchu
+Petra
+Chichen Itza
+Christ the Redeemer
+Acropolis
+Great Barrier Reef
+Galápagos Islands
+Serengeti National Park
+Yellowstone National Park
+Yosemite National Park
+Bora Bora
+Maldives
+Hawaii
+Venice
+Vienna
+Prague
+Budapest
+Stockholm
+Copenhagen
+Dublin
+Edinburgh
+Brussels
+Zurich
+Geneva
+Milan
+Madrid
+Lisbon
+Oslo
+Helsinki
+Reykjavik
+Warsaw
+Krakow
+St. Petersburg
+Ulaanbaatar
+Kuala Lumpur
+Jakarta
+Manila
+Seoul
+Taipei
+Hanoi
+Ho Chi Minh City
+Phnom Penh
+Siem Reap
+Angkor Wat
+Auckland
+Cape Town
+Johannesburg
+Nairobi
+Kilimanjaro
+Victoria Falls
+Galway
+Split
+Dubrovnik
+Santorini
+Mykonos
+park
+forest
+beach
+mountain
+desert
+jungle
+river
+lake
+cave
+waterfall
+island
+volcano
+glacier
+ocean
+swamp
+marsh
+valley
+hill
+pond
+woods
+meadow
+tundra
+savanna
+canyon
+cliff
+coast
+bay
+grove
+plain
+garden
+prairie
+wetland
+delta
+reef
+creek
+lagoon
+library
+museum
+school
+hospital
+cinema
+theater
+restaurant
+cafe
+zoo
+aquarium
+stadium
+gym
+shopping mall
+supermarket
+bank
+hotel
+airport
+train station
+bus station
+harbor
+post office
+police station
+fire station
+prison
+church
+mosque
+temple
+synagogue
+bridge
+skyscraper
+tower
+castle
+palace
+fort
+market
+square
+city hall
+courthouse
+dock
+pier
+farm
+factory
+power plant
+office building
+warehouse
+gas station
+amusement park
+theme park
+water park
+cemetery
+beach house
+resort
+spa
+campground
+national park
+observatory
+planetarium
+art gallery
+monastery
+convention center
+opera house
+ice rink
+bowling alley
+skate park
+race track
+casino
+bar
+nightclub
+parking lot
+playground
+botanical garden
+sports complex
+arena
+nursery
+greenhouse
+vineyard
+orchard
+rooftop
+penthouse
+attic
+basement
+balcony
+porch
+patio
+terrace
+loft
+garage
+elevator
+lobby
+hallway
+staircase
+closet
+laundry room
+nursing home
+kindergarten
+dormitory
+hostel
+bed and breakfast
+inn
+motel
+car wash
+auto repair shop
+tire shop
+car dealership
+motorcycle shop
+bicycle shop
+pet shop
+bookstore
+toy store
+electronics store
+hardware store
+pharmacy
+bakery
+butcher shop
+fish market
+farmer's market
+flea market
+thrift store
+pawn shop
+jewelry store
+tailor shop
+shoe store
+furniture store
+department store
+boutique
+hair salon
+nail salon
+spa
+tattoo parlor
+barbershop
+laundromat
+printing shop
+photography studio
+recording studio
+video rental store
+florist
+greeting card shop
+gift shop
+bridal shop
+cosmetics store
+optician
+dentist
+veterinary clinic
+clinic
+music store
+instrument shop
+record store
+comic book store
+dance studio
+yoga studio
+martial arts dojo
+community center
+social club
+fraternity house
+sorority house
+youth center
+senior center
+rehabilitation center
+employment agency
+travel agency
+insurance agency
+real estate agency
+advertising agency
+accounting firm
+law firm
+consulting firm
+architecture firm
+engineering firm
+software company
+web design agency
+graphic design agency
+animation studio
+film studio
+television studio
+broadcasting station
+radio station
+newspaper office
+magazine office
+editorial office
+publishing house
+lighthouse
+windmill
+watermill
+gristmill
+sawmill
+cotton mill
+textile mill
+sugar mill
+oil refinery
+iron foundry
+steelmaking plant
+shipyard
+brewery
+distillery

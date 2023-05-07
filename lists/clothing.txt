@@ -1,0 +1,190 @@
+T-shirt
+Sweatshirt
+Hoodie
+Tank top
+Polo shirt
+Button-down shirt
+Dress shirt
+Blouse
+Crop top
+Henley shirt
+Turtleneck
+Sweater
+Cardigan
+Pullover
+Vest
+Jacket
+Windbreaker
+Raincoat
+Trench coat
+Peacoat
+Overcoat
+Parka
+Duffle coat
+Blazer
+Suit jacket
+Dinner jacket
+Tuxedo
+Jeans
+Chinos
+Khakis
+Slacks
+Dress pants
+Trousers
+Cargo pants
+Sweatpants
+Joggers
+Leggings
+Yoga pants
+Jumpsuit
+Romper
+Overalls
+Shorts
+Board shorts
+Swim trunks
+Bermuda shorts
+Boxer shorts
+Pajama pants
+Pajama set
+Nightgown
+Bathrobe
+Dresses
+Skirt
+Mini skirt
+Midi skirt
+Maxi skirt
+Pencil skirt
+A-line skirt
+Pleated skirt
+Wrap skirt
+Denim skirt
+Kilt
+Sari
+Kimono
+Caftan
+Tunic
+Poncho
+Shawl
+Scarf
+Necktie
+Bow tie
+Ascot
+Bandana
+Pocket square
+Suspenders
+Belt
+Gloves
+Mittens
+Winter hat
+Beanie
+Baseball cap
+Fedora
+Panama hat
+Bucket hat
+Cowboy hat
+Beret
+Flat cap
+Trapper hat
+Sun hat
+Fascinator
+Headband
+Hair tie
+Earmuffs
+Eyeglasses
+Sunglasses
+Swimsuit
+Bikini
+One-piece swimsuit
+Two-piece swimsuit
+Swim briefs
+Rash guard
+Wetsuit
+Brassiere
+Sports bra
+Bralette
+Bandeau
+Bustier
+Corset
+Garter belt
+Stockings
+Tights
+Pantyhose
+Knee-high socks
+Ankle socks
+Crew socks
+No-show socks
+Compression socks
+Slipper socks
+Underwear
+Boxer briefs
+Briefs
+Bikini briefs
+Boyshorts
+Thong
+G-string
+Long underwear
+Thermal underwear
+Undershirt
+Tank top
+Camisole
+Slip
+Bodysuit
+Teddy
+Negligee
+Babydoll
+Chemise
+Bridal gown
+Cocktail dress
+Evening gown
+Party dress
+Sundress
+Wrap dress
+Sheath dress
+Shift dress
+Shirt dress
+Bodycon dress
+Fit and flare dress
+Skater dress
+Jacket dress
+Bolero
+Shrug
+Stole
+Cummerbund
+Waistcoat
+Gilet
+Apron
+Chef's jacket
+Lab coat
+Scrubs
+Uniform
+Coveralls
+Safety vest
+Work boots
+Rain boots
+Snow boots
+Cowboy boots
+Ankle boots
+Knee-high boots
+Combat boots
+Hiking boots
+Riding boots
+Sneakers
+Running shoes
+Athletic shoes
+Dress shoes
+Oxfords
+Brogues
+Loafers
+Moccasins
+Boat shoes
+Espadrilles
+Sandals
+Flip-flops
+Slides
+Wedge sandals
+Platform sandals
+Stilettos
+Pumps
+Kitten heels
+Ballet flats
+Slippers
