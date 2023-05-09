@@ -1,0 +1,50 @@
+clear sky
+partly cloudy
+overcast
+drizzle
+light rain
+moderate rain
+heavy rain
+showers
+rain and snow mix
+freezing rain
+sleet
+hail
+light snow
+moderate snow
+heavy snow
+snow showers
+flurries
+blowing snow
+blizzard
+thunderstorm
+isolated thunderstorm
+scattered thunderstorms
+severe thunderstorm
+tornado
+tropical storm
+hurricane
+cyclone
+typhoon
+fog
+mist
+haze
+smog
+smoke
+dust
+sandstorm
+dust devil
+heat wave
+cold wave
+frost
+black ice
+dew
+hoarfrost
+rime
+freezing fog
+gusty winds
+high winds
+gale
+squall
+microburst
+waterspout
