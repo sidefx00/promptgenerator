@@ -1,0 +1,85 @@
+Porsche
+Bentley
+BMW
+Mercedes
+Jaguar
+Audi
+Lexus
+Infiniti
+Acura
+Cadillac
+Chevy
+Ford
+Toyota
+VW
+Volvo
+Saturn
+Mitsubishi
+Mazda
+Hyundai
+Kia
+Subaru
+Chrysler
+Dodge
+Jeep
+Tesla
+Alfa Romeo
+Aston Martin
+Buick
+Chevrolet
+Ferrari
+Fiat
+Lamborghini
+Maserati
+McLaren
+Nissan
+RollsRoyce
+Saab
+Scion
+Smart
+Aventador
+Huracan
+Urus
+Cayenne
+Panamera
+911
+718
+Macan
+Cayman
+718 Boxster
+Taycan
+Panamera EHybrid
+Panamera 4 EHybrid Sport Turismo
+Panamera Turbo S EHybrid
+Panamera Turbo S
+Panamera GTS
+Panamera 4S
+Panamera 4
+Panamera
+Panamera Sport Turismo
+Cullinan
+Wraith
+Dawn
+Ghost
+Phantom
+Continental GT
+Flying Spur
+Bentayga
+Mulsanne
+Civic
+Accord
+Corolla
+Camry
+RAV4
+Highlander
+Sienna
+Tacoma
+Tundra
+4Runner
+Land Cruiser
+Sequoia
+RC F Track Edition
+UX F Sport
+UX F Sport 2
+UX250h F Sport
+UX250h F Sport 2

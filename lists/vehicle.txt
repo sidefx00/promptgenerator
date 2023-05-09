@@ -1,135 +1,149 @@
-Ford Mustang
-Chevrolet Camaro
-Dodge Challenger
-Chevrolet Corvette
-Porsche 911
-BMW M3
-Audi R8
-Lamborghini Aventador
-Ferrari 488
-Nissan GTR
-Tesla Model S
-Jeep Wrangler
-Toyota Tacoma
-Ford F150
-Chevrolet Silverado
-Ram 1500
-Toyota Corolla
-Honda Civic
-Ford Fiesta
-Volkswagen Golf
-Mazda MX-five
-Honda Accord
-Toyota Camry
-Nissan Altima
-Hyundai Sonata
-Kia Optima
-Subaru Impreza
-Chevrolet Malibu
-Ford Fusion
-Chrysler 300
-Toyota Prius
-Honda Fit
-Chevrolet Bolt
-Nissan Leaf
-Tesla Model 3
-BMW i3
-Audi A3
-Mercedes Benz C Class
-Lexus IS
-Acura TLX
-Infiniti Q50
-Cadillac CTS
-Lincoln MKZ
-Volvo S60
-Maserati Ghibli
-Alfa Romeo Giulia
-Jaguar XE
-Range Rover Sport
-Porsche Cayenne
-Mercedes Benz GLE
-BMW X5
-Audi Q7
-Lexus RX
-Acura MDX
-Infiniti QX60
-Cadillac Escalade
-Lincoln Navigator
-Jeep Grand Cherokee
-Honda CR-V
-Toyota RAV4
-Ford Escape
-Nissan Rogue
-Chevrolet Equinox
-Subaru Forester
-Mazda CX-5
-Kia Sorento
-Hyundai Santa Fe
-Volkswagen Tiguan
-BMW X1
-Audi Q3
-Mercedes Benz GLA
-Lexus NX
-Acura RDX
-Porsche Boxster
-Ferrari Portofino
-Lamborghini Huracan
-McLaren 570S
-Audi TT
-Chevrolet Impala
-Nissan Maxima
-Toyota Avalon
-Kia Cadenza
-Hyundai Azera
-Buick LaCrosse
-Lincoln Continental
-Cadillac XTS
-Chrysler Pacifica
-Honda Odyssey
-Toyota Sienna
-Kia Sedona
-Dodge Grand Caravan
-Mercedes Benz Metris
-Ford Transit Connect
-Ram ProMaster City
-Volkswagen Passat
-Mazda 6
-Subaru Legacy
-Ford Taurus
-Nissan Murano
-GMC Acadia
-Ford Explorer
-Dodge Durango
-Chevrolet Traverse
-Toyota Highlander
-Honda Pilot
-Nissan Pathfinder
-Kia Telluride
-Hyundai Palisade
-Mitsubishi Outlander
-Ford Edge
-Nissan Kicks
-Toyota CHR
-Honda HR-V
-Chevrolet Trax
-Mazda CX-3
-Jeep Renegade
-Subaru Crosstrek
-Buick Encore
-Kia Soul
-Hyundai Kona
-Nissan 370Z
-Chevrolet SS
-Dodge Viper
-Shelby GT500
-Audi RS5
-BMW M4
-Lexus LC
-Acura NSX
-Jaguar F Type
-Toyota Supra
-Mazda RX-7
-Subaru BRZ
-Nissan Silvia
-Mitsubishi Evo
-Honda S
+car
+motorcycle
+bicycle
+train
+bus
+airplane
+Boat
+yacht
+submarine
+hovercraft
+segway
+rickshaw
+go-kart
+dune buggy
+snowmobile
+all-terrain vehicle (ATV)
+fire truck
+garbage truck
+tractor
+tank
+armoured car
+police car
+ambulance
+taxi
+limousine
+race car
+caravan
+catamaran
+dinghy
+gondola
+icebreaker
+jet ski
+kayak
+log flume
+motorboat
+raft
+sailboat
+ski lift
+steamboat
+surrey
+trolleybus
+unicycle
+water slide
+zamboni
+armored car
+ATV
+Zamboni
+van
+minibus
+lorry
+jeep
+land rover
+humvee
+Range Rover
+Porsche
+Ferrari
+Lamborghini
+Cadillac
+Buick
+Lexus
+Audi
+BMW
+Mercedes
+Volkswagen
+Volvo
+Ford
+Chevrolet
+Tesla
+Trolley
+boat
+all terrain vehicle
+go kart
+racecar
+school bus
+city bus
+Greyhound bus
+semi-truck
+18-wheeler
+dump truck
+tractor trailer
+tanker truck
+ice cream truck
+food truck
+pickup truck
+cargo van
+passenger van
+moving van
+RV
+motorhome
+mini-van
+hot air balloon
+blimp
+glider
+private jet
+commercial airliner
+crop duster
+bi-plane
+tri-plane
+single engine plane
+multi-engine plane
+jet engine plane
+helicopter
+speedboat
+rowboat
+canoe
+sport utility vehicle (SUV)
+moped
+Vespa
+scooter
+mule
+donkey
+carriage
+sulky
+wagon
+dray
+barouche
+buggy
+sulky
+landau
+brougham
+cabriolet
+chaise
+coach
+phaeton
+diligance
+stagecoach
+tumbrel
+hearse
+catafalque
+carnival ride
+roller coaster
+Ferris wheel
+carousel
+merry-go-round
+bumper cars
+swings
+Tilt-A-Whirl
+pirate ship
+riverboat
+houseboat
+pontoon boat
+skiff
+pontoon
+sloop
+trawler
+cruiser
+destroyer
+aircraft carrier
+all-terrain vehicle
