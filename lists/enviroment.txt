@@ -1,0 +1,152 @@
+Air
+Water
+Soil
+Rocks
+Plants
+Animals
+Sky
+Clouds
+Weather
+Sun
+Moon
+Stars
+Universe
+Galaxies
+Solar System
+Outer Space
+Atmosphere
+Climate
+Land
+Geography
+Bodies of water
+Desert
+Tundra
+Forests
+Rainforests
+Grasslands
+Mountain
+Hills
+Caves
+Valleys
+Hotels
+Schools
+Restaurants
+Bars
+Clubs
+Movie Theaters
+Bowling Alleys
+Fitness Centers
+Golf Courses
+Tennis Courts
+Parks
+Hiking Trails
+Biking Trails
+Beaches
+Lakes
+River
+Canyons
+Roads
+Bridges
+Tunnels
+Buildings
+Houses
+Malls
+Shopping Centers
+Streets
+Trees
+Flowers
+Rain
+Snow
+Ice
+Sleet
+Hail
+Wind
+Fog
+Storms
+Hurricanes
+Tornadoes
+Tsunamis
+Volcanoes
+Earthquakes
+Geysers
+Healing Springs
+Swamps
+Bogs
+Marshes
+Oceans
+Seas
+Rivers
+Ponds
+Lagoons
+Fjords
+Waterfalls
+Mountains
+Plains
+Jungles
+Savannas
+Deserts
+Arctic
+Antarctic
+Space
+Galaxy
+Universes
+Comets
+Meteors
+asteroids
+Fields
+Cities
+C anyons
+H iking T rails
+O ut
+Environments:
+Natural environments: mountains
+forests
+deserts
+beaches
+oceans
+rivers
+lakes
+Manmade environments: bridges
+streets
+buildings
+schools
+restaurants
+shopping centers
+parks
+Weather conditions: sleet
+hail
+wind
+fog
+rain
+snow
+Space: outer space
+galaxies
+solar system
+planets
+meteors
+Geographical features: canyons
+healing springs
+jungles
+marshes
+swamps
+Landscapes: grasslands
+plains
+valleys
+hills
+mountains
+Athletic environments: tennis courts
+golf courses
+fitness centers
+bowling alleys
+Social environments: clubs
+bars
+movie theaters
+hotels
+malls
+Extreme environments: volcanoes
+hurricanes
+earthquakes
+tsunamis
+Religious/spiritual environments: temples
+churches
+shrines
